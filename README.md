@@ -1,4 +1,4 @@
-![logo](https://github.com/YashChawla1205/Yash-Chawla/blob/4e2a857be83d66f7a16bd4d516e78ff69b01c6f7/Violet%20and%20White%20Simple%20Bold%20Business%20Promo%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/YashChawla1205/YashChawla1205/blob/487268ed01a4b148374a19ceae5d13bff77396bd/Violet%20and%20White%20Simple%20Bold%20Business%20Promo%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Yash Chawla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
